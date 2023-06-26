@@ -1,0 +1,1 @@
+// To search a missing number in an array which contains integers from 1 to 100
