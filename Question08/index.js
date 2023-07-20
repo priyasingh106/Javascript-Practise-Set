@@ -1,7 +1,7 @@
 
 
 
-// print fibonacci series
+// print fibonacci serie
 
 
 
